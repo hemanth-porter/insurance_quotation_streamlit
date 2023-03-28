@@ -44,7 +44,7 @@ if vehicle_number:
 
 pd.set_option('display.max_columns', None)
 
-print("Sample Vehicle Numbers for testing: ","TS13UC4513","TS07UL1462","TS13UC6498","TS07UK1169","TS07UK2562","TS07UK2505")
+st.write("Sample Vehicle Numbers for testing: ","TS13UC4513","TS07UL1462","TS13UC6498","TS07UK1169","TS07UK2562","TS07UK2505")
 
 # commission_df #TS13UC4513 Sample 
 
