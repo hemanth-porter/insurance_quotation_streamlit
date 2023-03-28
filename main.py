@@ -46,11 +46,11 @@ pd.set_option('display.max_columns', None)
 
 list(vaahan_data[vaahan_data[manf_year_col].notna()]["registration_number"])[5]
 
-commission_df
+# commission_df #TS13UC4513 Sample 
 
 
 
-vaahan_data.iloc[12935]
+# vaahan_data.iloc[12935]
 
 # +
 # display(vaahan_data[vaahan_data['registration_number'] == 'TS07UK1169'])
